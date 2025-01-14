@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/BikramjeetSingh/BikramjeetSingh/blob/master/waveemoji.gif" width="20px"/>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bikramjtsingh.svg?style=social&label=@bikramjtsingh)](https://twitter.com/bikramjtsingh)
 
