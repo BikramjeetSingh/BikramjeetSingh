@@ -9,4 +9,4 @@ I'm a **web developer**, **software** and **cloud engineer** with 3+ years of ex
 - 🌱 I’m currently learning system architecture/design and AWS
 - ✍️ I write about software on my technical blog at [dev.to/bikramjeetsingh](https://dev.to/bikramjeetsingh)
 - 📫 How to reach me: feel free to drop me an email at [singhbikramjeet@outlook.com](mailto:singhbikramjeet@outlook.com)
-- ⚡ Completely random fun fact: octopuses have three hearts, and two of them stop beating when they swim!
+- ⚡ Completely random fun fact: octopuses have three hearts, and [one of them stops beating when they swim!](https://octonation.com/how-many-hearts-does-an-octopus-have)
